@@ -1,7 +1,7 @@
 <!-- 🌸 Professional GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/Maria-Sultana-Meem/Maria-Sultana-Meem/blob/main/Banner1.png" width="100%" />
+  <img src="https://github.com/Maria-Sultana-Meem/Maria-Sultana-Meem/blob/main/banner2.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Maria Sultana Meem</b></h1>
