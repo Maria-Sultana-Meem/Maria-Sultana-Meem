@@ -72,7 +72,7 @@
 ## 👥 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/maria-sultana-meem-1868b9324" target="_blank">
+ <a href="https://www.linkedin.com/in/maria-sultana-meem-1868b9324/" target="_blank">
     <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/@meem729" target="_blank">
